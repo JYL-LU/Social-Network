@@ -1,5 +1,9 @@
 # Social-Network
 
+![github license](https://img.shields.io/badge/license-MIT-blueviolet.png)
+
+For license link, please check at (https://choosealicense.com/licenses/mit/#)
+
 ## Table Of Contents
 
 - [Description](#description)

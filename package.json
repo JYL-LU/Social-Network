@@ -20,6 +20,6 @@
   "homepage": "https://github.com/JYL-LU/Social-Network#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^6.0.11"
+    "mongoose": "^5.10.6"
   }
 }

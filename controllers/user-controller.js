@@ -34,7 +34,16 @@ const userController = {
   },
 
   // createUser
+  /*createUser(req, res) {
+    console.log(req);
+    const user = new User({
+      username: req.body.username,
+      email: req.body.email,
+    });*/
+
   createUser({ body }, res) {
+    console.log("body");
+    console.log(body);
     User.create(body)
       .then((dbUserData) => res.json(dbUserData))
       .catch((err) => res.json(err));

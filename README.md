@@ -18,7 +18,13 @@ For license link, please check at (https://choosealicense.com/licenses/mit/#)
 
 This is a social network application where users can interact with their friends by adding them, sharing and reacting their thoughts. This applicaiton uses Node, Express, Mongoose, and MongoDB. REST API routes are tested with Insomnia. The application
 
+Screenshot:
+
+![social network](https://user-images.githubusercontent.com/82979870/138216228-f3d5e743-450a-4bb6-b565-f25576a2e3e7.png)
+
 video walkthrough:
+
+https://watch.screencastify.com/v/cbkzqBvD3mtAM1X1JptC
 
 ## Installation
 
